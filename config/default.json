@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://ckeeper:ckeeper@localhost:27017/ckeeper?retryWrites=true",
+    "jwtSecret": "secret"
+}
